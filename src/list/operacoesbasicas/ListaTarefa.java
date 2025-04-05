@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ListaTarefa {
     // Atributo
-    private List<Tarefa> tarefaList;
+    private final List<Tarefa> tarefaList;
 
     // Construtor
     public ListaTarefa() {

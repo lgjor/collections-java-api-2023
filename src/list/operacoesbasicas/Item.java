@@ -3,9 +3,9 @@ package list.operacoesbasicas;
 // Classe Item
 public class Item {
     // Atributo
-    private String descricao;
-    private double preco;
-    private int quantidade;
+    private final String descricao;
+    private final double preco;
+    private final int quantidade;
 
     // Construtor
 

@@ -2,7 +2,7 @@ package list.operacoesbasicas;
 
 public class Tarefa {
     // Atributo
-    private String descricao;
+    private final String descricao;
 
     // Construtor
     public Tarefa(String descricao) {

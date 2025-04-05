@@ -6,7 +6,7 @@ import java.util.List;
 public class CarrinhoDeCompras {
 
     // Atributos
-    private List<Item> itens;
+    private final List<Item> itens;
 
     // Construtor
     public CarrinhoDeCompras() {
