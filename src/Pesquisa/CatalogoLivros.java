@@ -6,7 +6,7 @@ import java.util.List;
 public class CatalogoLivros {
 
     // Atributos
-    private List<Livro> livroList;
+    private final List<Livro> livroList;
 
     public CatalogoLivros() {
         this.livroList = new ArrayList<>();
