@@ -1,4 +1,4 @@
-package Pesquisa;
+package pesquisa;
 
 public class Livro {
 

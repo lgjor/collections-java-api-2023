@@ -1,4 +1,4 @@
-package Pesquisa;
+package pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
