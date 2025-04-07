@@ -6,7 +6,7 @@ import java.util.Set;
 public class ConjuntoConvidados {
 
     //atributos
-    private Set<Convidado> convidadoSet;
+    private final Set<Convidado> convidadoSet;
 
     //construtor
     public ConjuntoConvidados() {
